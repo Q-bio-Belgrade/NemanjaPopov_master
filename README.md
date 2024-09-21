@@ -1,4 +1,4 @@
-#MATLAB kod za reprodukovanje rezultata
+# MATLAB kod za reprodukovanje rezultata
 
 Ovaj repozitorijum sadrži MATLAB kod za reprodukovanje rezultata iz master rada:
 
