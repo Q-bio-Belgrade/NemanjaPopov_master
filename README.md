@@ -33,7 +33,7 @@ MATLAB kod za inferenciju vrednosti parametara mrežnom pretragom primenjenom u 
 
 - Kod je pisan u MATLAB verziji R2024a.
 - Proverite da su sve MATLAB alatne kutije instalirane kako bi skripte ispravno radile. (Statistics and Machine Learning Toolbox, Optimization i Global Optimization Toolbox)
-- Fajl perturbed_data_high.mat sadrži simulirane podatke na osnovu koji se radi inferencija parametara. Neophodno je držati ovaj fajl u istom folderu kao i skripte kako bi kod radio ispravno.
+- Fajl perturbed_data_high.mat sadrži simulirane podatke na osnovu kojih se radi inferencija parametara. Neophodno je držati ovaj fajl u istom folderu kao i skripte kako bi kod radio ispravno.
 
 ## Licenca
 
