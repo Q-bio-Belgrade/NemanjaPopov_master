@@ -3,7 +3,7 @@
 Ovaj repozitorijum sadrži MATLAB kod za reprodukovanje rezultata iz master rada:
 
 **"Inverzna optimizacija modela CRISPR/Cas sistema tipa I-E u Escherichia coli iz simuliranih podataka"** 
-od Nemanje Popov
+od Nemanje Popova
 
 ## Skripte
 
